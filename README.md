@@ -8,7 +8,7 @@
 <img src="screenshots/3.png" heigth="500" width="200">
 </p>
 
-## Technologies
+## ✨ Technologies
 - React Native
 - Used <a href="https://openweathermap.org/">OpenWeather</a> API.
 
@@ -19,5 +19,6 @@
 - Inicie o servidor com `yarn start` or `npm start`
 
 Access [`localhost:3000`](http://localhost:3000) from your browser.
-`Note: You might have to configure a new API key at `
+
+Note: You might have to configure a new API key at [OpenWeather](https://openweathermap.org/)
 
