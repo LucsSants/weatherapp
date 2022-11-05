@@ -8,3 +8,16 @@
 <img src="screenshots/3.png" heigth="500" width="200">
 </p>
 
+## Technologies
+- React Native
+- Used <a href="https://openweathermap.org/">OpenWeather</a> API.
+
+## 🚀 How to run
+
+- Clone the repository
+- Install dependencies with `yarn` or `npm`
+- Inicie o servidor com `yarn start` or `npm start`
+
+Access [`localhost:3000`](http://localhost:3000) from your browser.
+`Note: You might have to configure a new API key at `
+
