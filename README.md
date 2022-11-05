@@ -9,15 +9,16 @@
 </p>
 
 ## ✨ Technologies
-- React Native
+- [React Native](https://reactnative.dev/)
+- [Expo](https://expo.dev/) SLI
 - Used <a href="https://openweathermap.org/">OpenWeather</a> API.
-- [Expo](https://expo.dev/)
+
 
 ## 🚀 How to run
 
 - Clone the repository
 - Install dependencies with `yarn` or `npm`
-- Start the server with o `expo start`
+- Start the server with `expo start`
 
 Open on your phone or emulator using expo.
 
